@@ -11,6 +11,7 @@ HQNN-Parallel is a hybrid quantum-classical model that utilizes multiple paralle
 The model is evaluated on the MNIST dataset of handwritten digits and compared with the performance of the classical convolutional neural networks (CNNs) with similar architectures.
 
 The classical convolutional neural network is implemented in `` ImgClass-Classical.ipynb `` and the HQNN-Parallel is implemented in `` ImgClass-Hybrid.ipynb ``
+**Result**: The classical convolutional neural network gives an accurancy of 99.20% and the HQNN-Parallel (with ``n_layers = 1`` instead of ``n_layers = 3`` as suggested in the paper) gives an accuracy of 99.17%
 
 3. **Hybrid Quantum Neural Network with quanvolutional layer, HQNN-Quanv**:
 

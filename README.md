@@ -1,6 +1,6 @@
 ## hybrid-quantum-classical-models-for-image-classification
 
-The code implements the hybrid quantum-classical models from the paper "Quantum machine learning for image classification" by Arsenii Senokosov et al (https://arxiv.org/pdf/2304.09224.pdf) 
+The python code implements the hybrid quantum-classical models from the paper "Quantum machine learning for image classification" by Arsenii Senokosov et al (https://arxiv.org/pdf/2304.09224.pdf) 
 
 The paper proposes two hybrid quantum-classical models for image classification:
 

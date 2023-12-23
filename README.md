@@ -12,7 +12,7 @@ The model is evaluated on the MNIST dataset of handwritten digits and compared w
 
 The classical convolutional neural network is implemented in `` ImgClass-Classical.ipynb `` and the HQNN-Parallel is implemented in `` ImgClass-Hybrid.ipynb ``
 
-**Result**: The classical convolutional neural network gives an accurancy of 99.20% and the HQNN-Parallel (with ``n_layers = 1`` instead of ``n_layers = 3`` as suggested in the paper) gives an accuracy of 99.17%
+**Result**: The classical convolutional neural network gives an accurancy of 99.20% and the HQNN-Parallel (with ``n_layers = 1`` instead of ``n_layers = 3`` as used in the paper) gives an accuracy of 99.17%
 
 3. **Hybrid Quantum Neural Network with quanvolutional layer, HQNN-Quanv**:
 

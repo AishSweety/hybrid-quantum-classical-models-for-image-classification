@@ -14,7 +14,7 @@ The classical convolutional neural network is implemented in `` ImgClass-Classic
 
 **Result**: The classical convolutional neural network gives an accurancy of 99.20% and the HQNN-Parallel (with ``n_layers = 1`` instead of ``n_layers = 3`` as used in the paper) gives an accuracy of 99.17%
 
-3. **Hybrid Quantum Neural Network with quanvolutional layer, HQNN-Quanv**:
+2. **Hybrid Quantum Neural Network with quanvolutional layer, HQNN-Quanv**:
 
 HQNN-Quanv is a hybrid quantum-classical model that combines a quanvolutional layer with classical fully connected layers to address the image classification task. The quanvolutional layer utilizes quantum mechanics to extract features from the input image, while the classical fully connected layers process and classify these features.
 

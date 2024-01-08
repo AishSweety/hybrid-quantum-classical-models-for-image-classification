@@ -23,6 +23,6 @@ The model is evaluated on the MNIST dataset of handwritten digits and compared w
 
 The classical convolutional neural network is implemented in `` CNN1.ipynb `` and `` CNN4.ipynb ``, the HQNN-Quanv is implemented in `` HQNN-Quanv.ipynb ``
 
-**Result**: CNN1 gives an accuracy of 79%, CNN4 gives an accuracy of 67% and the HQNN-Quanv had an accuracy of 70%. 
+**Result**: CNN1 gives an accuracy of 79%, CNN4 gives an accuracy of 67% and the HQNN-Quanv had an accuracy of 70% (see ``dataset_indices_500.pt``). 
 
-Note that HQNN-Quanv model uses Initial_lr = 0.003, and the model's loss function seems to be very sensitive to small changes (+/- 0.0005) to Initial_lr, significantly impacting the accuracy (which gets to 58% for Initial_lr = 0.0035, or 45% for Initial_lr = 0.0025, for example). 
+Note that HQNN-Quanv model uses Initial_lr = 0.003, and the model's loss function seems to be very sensitive to small changes (+/- 0.0005) to Initial_lr, significantly impacting the accuracy (which gets to 58% for Initial_lr = 0.0035, or 45% for Initial_lr = 0.0025, for example). See ``hqcnn quanv output.txt`` for some outputs of HQNN-Quanv model training run). 

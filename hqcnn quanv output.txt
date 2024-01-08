@@ -1,0 +1,960 @@
+n_epochs=40, n_train=500, initial_lr=0.0025, gamma=1.0
+momentum=0.9, nesterov=False
+
+epoch=0, lr=[0.0025], 2024-01-06 21:48:36.488483
+Training [2%]	Loss: 2.2788
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 17.00%
+epoch=1, lr=[0.0025], 2024-01-06 21:50:37.598273
+Training [5%]	Loss: 2.2062
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 23.00%
+epoch=2, lr=[0.0025], 2024-01-06 21:52:33.046508
+Training [8%]	Loss: 2.1370
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 30.00%
+epoch=3, lr=[0.0025], 2024-01-06 21:54:28.273496
+Training [10%]	Loss: 2.0798
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 34.00%
+epoch=4, lr=[0.0025], 2024-01-06 21:56:23.834537
+Training [12%]	Loss: 2.0313
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=5, lr=[0.0025], 2024-01-06 21:58:19.401408
+Training [15%]	Loss: 1.9895
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=6, lr=[0.0025], 2024-01-06 22:00:14.385288
+Training [18%]	Loss: 1.9529
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=7, lr=[0.0025], 2024-01-06 22:02:10.724110
+Training [20%]	Loss: 1.9209
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 41.00%
+epoch=8, lr=[0.0025], 2024-01-06 22:04:15.538323
+Training [22%]	Loss: 1.8924
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 41.00%
+epoch=9, lr=[0.0025], 2024-01-06 22:06:20.006308
+Training [25%]	Loss: 1.8671
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 41.00%
+epoch=10, lr=[0.0025], 2024-01-06 22:08:24.668136
+Training [28%]	Loss: 1.8443
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 42.00%
+epoch=11, lr=[0.0025], 2024-01-06 22:10:28.868716
+Training [30%]	Loss: 1.8237
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=12, lr=[0.0025], 2024-01-06 22:12:33.583416
+Training [32%]	Loss: 1.8049
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 44.00%
+epoch=13, lr=[0.0025], 2024-01-06 22:14:36.732528
+Training [35%]	Loss: 1.7879
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=14, lr=[0.0025], 2024-01-06 22:16:41.035188
+Training [38%]	Loss: 1.7722
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 44.00%
+epoch=15, lr=[0.0025], 2024-01-06 22:18:44.407122
+Training [40%]	Loss: 1.7578
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 44.00%
+epoch=16, lr=[0.0025], 2024-01-06 22:20:47.805007
+Training [42%]	Loss: 1.7446
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 44.00%
+epoch=17, lr=[0.0025], 2024-01-06 22:22:52.118397
+Training [45%]	Loss: 1.7322
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 44.00%
+epoch=18, lr=[0.0025], 2024-01-06 22:24:53.781146
+Training [48%]	Loss: 1.7208
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=19, lr=[0.0025], 2024-01-06 22:26:53.749506
+Training [50%]	Loss: 1.7100
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 45.00%
+epoch=20, lr=[0.0025], 2024-01-06 22:28:57.504474
+Training [52%]	Loss: 1.6998
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 44.00%
+epoch=21, lr=[0.0025], 2024-01-06 22:31:02.007135
+Training [55%]	Loss: 1.6904
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 45.00%
+epoch=22, lr=[0.0025], 2024-01-06 22:33:06.742635
+
+-------------------------------------------
+
+n_epochs=40, n_train=500, initial_lr=0.0035, gamma=1.0
+momentum=0.9, nesterov=False
+
+epoch=0, lr=[0.004], 2024-01-06 20:25:42.576554
+Training [2%]	Loss: 2.2541
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 31.00%
+epoch=1, lr=[0.004], 2024-01-06 20:27:38.515313
+Training [5%]	Loss: 2.1345
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 31.00%
+epoch=2, lr=[0.004], 2024-01-06 20:29:29.783364
+Training [8%]	Loss: 2.0354
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 37.00%
+epoch=3, lr=[0.004], 2024-01-06 20:31:19.877972
+Training [10%]	Loss: 1.9549
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=4, lr=[0.004], 2024-01-06 20:33:10.711311
+Training [12%]	Loss: 1.8882
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 40.00%
+epoch=5, lr=[0.004], 2024-01-06 20:35:00.742746
+Training [15%]	Loss: 1.8324
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 42.00%
+epoch=6, lr=[0.004], 2024-01-06 20:36:51.431967
+Training [18%]	Loss: 1.7844
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=7, lr=[0.004], 2024-01-06 20:38:42.039556
+Training [20%]	Loss: 1.7429
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=8, lr=[0.004], 2024-01-06 20:40:33.206508
+Training [22%]	Loss: 1.7068
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=9, lr=[0.004], 2024-01-06 20:42:24.363130
+Training [25%]	Loss: 1.6749
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 48.00%
+epoch=10, lr=[0.004], 2024-01-06 20:44:15.559977
+Training [28%]	Loss: 1.6463
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 49.00%
+epoch=11, lr=[0.004], 2024-01-06 20:46:07.154369
+Training [30%]	Loss: 1.6208
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 51.00%
+epoch=12, lr=[0.004], 2024-01-06 20:47:58.180498
+Training [32%]	Loss: 1.5975
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 51.00%
+epoch=13, lr=[0.004], 2024-01-06 20:49:49.662972
+Training [35%]	Loss: 1.5763
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 51.00%
+epoch=14, lr=[0.004], 2024-01-06 20:51:41.539777
+Training [38%]	Loss: 1.5571
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 51.00%
+epoch=15, lr=[0.004], 2024-01-06 20:53:32.104577
+Training [40%]	Loss: 1.5392
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 51.00%
+epoch=16, lr=[0.004], 2024-01-06 20:55:24.053864
+Training [42%]	Loss: 1.5228
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 51.00%
+epoch=17, lr=[0.004], 2024-01-06 20:57:16.142895
+Training [45%]	Loss: 1.5075
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 52.00%
+epoch=18, lr=[0.004], 2024-01-06 20:59:06.873999
+Training [48%]	Loss: 1.4933
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 52.00%
+epoch=19, lr=[0.004], 2024-01-06 21:00:58.734462
+Training [50%]	Loss: 1.4802
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 52.00%
+epoch=20, lr=[0.004], 2024-01-06 21:02:51.020655
+Training [52%]	Loss: 1.4679
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 52.00%
+epoch=21, lr=[0.004], 2024-01-06 21:04:43.478853
+Training [55%]	Loss: 1.4562
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 53.00%
+epoch=22, lr=[0.004], 2024-01-06 21:06:35.138327
+Training [58%]	Loss: 1.4453
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 54.00%
+epoch=23, lr=[0.004], 2024-01-06 21:08:25.864664
+Training [60%]	Loss: 1.4349
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 54.00%
+epoch=24, lr=[0.004], 2024-01-06 21:10:16.841934
+Training [62%]	Loss: 1.4254
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 54.00%
+epoch=25, lr=[0.004], 2024-01-06 21:12:09.015262
+Training [65%]	Loss: 1.4161
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 54.00%
+epoch=26, lr=[0.004], 2024-01-06 21:14:00.441242
+Training [68%]	Loss: 1.4075
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 55.00%
+epoch=27, lr=[0.004], 2024-01-06 21:15:53.875285
+Training [70%]	Loss: 1.3992
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 57.00%
+epoch=28, lr=[0.004], 2024-01-06 21:17:51.124039
+Training [72%]	Loss: 1.3914
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 57.00%
+epoch=29, lr=[0.004], 2024-01-06 21:19:47.453997
+Training [75%]	Loss: 1.3836
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 57.00%
+epoch=30, lr=[0.004], 2024-01-06 21:21:46.837950
+Training [78%]	Loss: 1.3763
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 58.00%
+epoch=31, lr=[0.004], 2024-01-06 21:23:54.313153
+Training [80%]	Loss: 1.3693
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 58.00%
+epoch=32, lr=[0.004], 2024-01-06 21:25:58.073654
+Training [82%]	Loss: 1.3627
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 58.00%
+epoch=33, lr=[0.004], 2024-01-06 21:27:54.205717
+Training [85%]	Loss: 1.3562
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 58.00%
+epoch=34, lr=[0.004], 2024-01-06 21:29:49.826544
+Training [88%]	Loss: 1.3501
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 58.00%
+epoch=35, lr=[0.004], 2024-01-06 21:31:46.567641
+Training [90%]	Loss: 1.3441
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 58.00%
+epoch=36, lr=[0.004], 2024-01-06 21:33:42.126451
+Training [92%]	Loss: 1.3384
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 58.00%
+epoch=37, lr=[0.004], 2024-01-06 21:35:37.756882
+Training [95%]	Loss: 1.3329
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 58.00%
+epoch=38, lr=[0.004], 2024-01-06 21:37:32.694493
+Training [98%]	Loss: 1.3274
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 58.00%
+epoch=39, lr=[0.004], 2024-01-06 21:39:28.277719
+
+-------------------------------------------
+
+n_epochs=40, n_train=500, initial_lr=0.003, gamma=1.0
+momentum=0.9, nesterov=False
+
+epoch=0, lr=[0.003], 2024-01-06 08:52:24.689584
+Training [2%]	Loss: 2.2525
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=1, lr=[0.003], 2024-01-06 08:54:13.441877
+Training [5%]	Loss: 2.1411
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 35.00%
+epoch=2, lr=[0.003], 2024-01-06 08:56:01.874758
+Training [8%]	Loss: 2.0432
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 38.00%
+epoch=3, lr=[0.003], 2024-01-06 08:57:51.428558
+Training [10%]	Loss: 1.9578
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 44.00%
+epoch=4, lr=[0.003], 2024-01-06 08:59:39.916853
+Training [12%]	Loss: 1.8841
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 47.00%
+epoch=5, lr=[0.003], 2024-01-06 09:01:27.895234
+Training [15%]	Loss: 1.8204
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=6, lr=[0.003], 2024-01-06 09:03:16.802128
+Training [18%]	Loss: 1.7650
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 48.00%
+epoch=7, lr=[0.003], 2024-01-06 09:05:04.810491
+Training [20%]	Loss: 1.7162
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 48.00%
+epoch=8, lr=[0.003], 2024-01-06 09:06:53.920299
+Training [22%]	Loss: 1.6731
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 48.00%
+epoch=9, lr=[0.003], 2024-01-06 09:08:45.046283
+Training [25%]	Loss: 1.6345
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 48.00%
+epoch=10, lr=[0.003], 2024-01-06 09:10:33.695548
+Training [28%]	Loss: 1.5999
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 48.00%
+epoch=11, lr=[0.003], 2024-01-06 09:12:21.241255
+Training [30%]	Loss: 1.5687
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 50.00%
+epoch=12, lr=[0.003], 2024-01-06 09:14:08.938715
+Training [32%]	Loss: 1.5402
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 50.00%
+epoch=13, lr=[0.003], 2024-01-06 09:15:57.113400
+Training [35%]	Loss: 1.5144
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 51.00%
+epoch=14, lr=[0.003], 2024-01-06 09:17:44.846734
+Training [38%]	Loss: 1.4905
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 51.00%
+epoch=15, lr=[0.003], 2024-01-06 09:19:33.234402
+Training [40%]	Loss: 1.4685
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 51.00%
+epoch=16, lr=[0.003], 2024-01-06 09:21:20.926591
+Training [42%]	Loss: 1.4415
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 51.00%
+epoch=17, lr=[0.003], 2024-01-06 09:23:07.967694
+Training [45%]	Loss: 1.4048
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 54.00%
+epoch=18, lr=[0.003], 2024-01-06 09:24:55.868774
+Training [48%]	Loss: 1.3741
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 56.00%
+epoch=19, lr=[0.003], 2024-01-06 09:26:43.173957
+Training [50%]	Loss: 1.3464
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 57.00%
+epoch=20, lr=[0.003], 2024-01-06 09:28:30.809784
+Training [52%]	Loss: 1.3208
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 59.00%
+epoch=21, lr=[0.003], 2024-01-06 09:30:19.034058
+Training [55%]	Loss: 1.2969
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 60.00%
+epoch=22, lr=[0.003], 2024-01-06 09:32:06.517458
+Training [58%]	Loss: 1.2746
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 61.00%
+epoch=23, lr=[0.003], 2024-01-06 09:33:54.681066
+Training [60%]	Loss: 1.2533
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 61.00%
+epoch=24, lr=[0.003], 2024-01-06 09:35:41.876052
+Training [62%]	Loss: 1.2118
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 63.00%
+epoch=25, lr=[0.003], 2024-01-06 09:37:29.613308
+Training [65%]	Loss: 1.1729
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 65.00%
+epoch=26, lr=[0.003], 2024-01-06 09:39:18.058590
+Training [68%]	Loss: 1.1459
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 65.00%
+epoch=27, lr=[0.003], 2024-01-06 09:41:05.589280
+Training [70%]	Loss: 1.1220
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 68.00%
+epoch=28, lr=[0.003], 2024-01-06 09:42:53.002933
+Training [72%]	Loss: 1.1003
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 68.00%
+epoch=29, lr=[0.003], 2024-01-06 09:44:41.033553
+Training [75%]	Loss: 1.0803
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 68.00%
+epoch=30, lr=[0.003], 2024-01-06 09:46:28.405035
+Training [78%]	Loss: 1.0615
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 68.00%
+epoch=31, lr=[0.003], 2024-01-06 09:48:16.492715
+Training [80%]	Loss: 1.0439
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 68.00%
+epoch=32, lr=[0.003], 2024-01-06 09:50:03.597142
+Training [82%]	Loss: 1.0275
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 69.00%
+epoch=33, lr=[0.003], 2024-01-06 09:51:50.538511
+Training [85%]	Loss: 1.0120
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 69.00%
+epoch=34, lr=[0.003], 2024-01-06 09:53:38.600785
+Training [88%]	Loss: 0.9973
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 69.00%
+epoch=35, lr=[0.003], 2024-01-06 09:55:25.615325
+Training [90%]	Loss: 0.9835
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 69.00%
+epoch=36, lr=[0.003], 2024-01-06 09:57:12.726703
+Training [92%]	Loss: 0.9705
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 70.00%
+epoch=37, lr=[0.003], 2024-01-06 09:59:00.840666
+Training [95%]	Loss: 0.9581
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 70.00%
+epoch=38, lr=[0.003], 2024-01-06 10:00:48.244852
+Training [98%]	Loss: 0.9462
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 70.00%
+epoch=39, lr=[0.003], 2024-01-06 10:02:36.607641
+Training [100%]	Loss: 0.9350
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 70.00%
+Finished Training
+
+
+----------------------------------
+
+n_epochs=40, n_train=500, initial_lr=0.002, gamma=1.0
+momentum=0.9, nesterov=False
+
+epoch=0, lr=[0.002], 2024-01-06 07:38:42.481728
+Training [2%]	Loss: 2.2745
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 16.00%
+epoch=1, lr=[0.002], 2024-01-06 07:40:30.184898
+Training [5%]	Loss: 2.2121
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 22.00%
+epoch=2, lr=[0.002], 2024-01-06 07:42:17.882459
+Training [8%]	Loss: 2.1538
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 26.00%
+epoch=3, lr=[0.002], 2024-01-06 07:44:05.318943
+Training [10%]	Loss: 2.1067
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 26.00%
+epoch=4, lr=[0.002], 2024-01-06 07:45:52.116827
+Training [12%]	Loss: 2.0666
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 28.00%
+epoch=5, lr=[0.002], 2024-01-06 07:47:40.236447
+Training [15%]	Loss: 2.0317
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=6, lr=[0.002], 2024-01-06 07:49:27.469576
+Training [18%]	Loss: 2.0008
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 33.00%
+epoch=7, lr=[0.002], 2024-01-06 07:51:14.456527
+Training [20%]	Loss: 1.9610
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 35.00%
+epoch=8, lr=[0.002], 2024-01-06 07:53:02.538428
+Training [22%]	Loss: 1.9259
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 35.00%
+epoch=9, lr=[0.002], 2024-01-06 07:54:50.853916
+Training [25%]	Loss: 1.8955
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=10, lr=[0.002], 2024-01-06 07:56:39.229828
+Training [28%]	Loss: 1.8684
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=11, lr=[0.002], 2024-01-06 07:58:27.233021
+Training [30%]	Loss: 1.8444
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 41.00%
+epoch=12, lr=[0.002], 2024-01-06 08:00:16.880991
+Training [32%]	Loss: 1.8226
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 41.00%
+epoch=13, lr=[0.002], 2024-01-06 08:02:05.691452
+Training [35%]	Loss: 1.8029
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 41.00%
+epoch=14, lr=[0.002], 2024-01-06 08:03:53.700569
+Training [38%]	Loss: 1.7848
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 41.00%
+epoch=15, lr=[0.002], 2024-01-06 08:05:42.433512
+Training [40%]	Loss: 1.7683
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 42.00%
+epoch=16, lr=[0.002], 2024-01-06 08:07:30.234302
+Training [42%]	Loss: 1.7531
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=17, lr=[0.002], 2024-01-06 08:09:20.167318
+Training [45%]	Loss: 1.7392
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=18, lr=[0.002], 2024-01-06 08:11:08.830681
+Training [48%]	Loss: 1.7265
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=19, lr=[0.002], 2024-01-06 08:12:57.270538
+Training [50%]	Loss: 1.7144
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=20, lr=[0.002], 2024-01-06 08:14:45.972366
+Training [52%]	Loss: 1.7025
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=21, lr=[0.002], 2024-01-06 08:16:33.348491
+Training [55%]	Loss: 1.6920
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=22, lr=[0.002], 2024-01-06 08:18:21.871190
+Training [58%]	Loss: 1.6820
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 44.00%
+epoch=23, lr=[0.002], 2024-01-06 08:20:09.283989
+Training [60%]	Loss: 1.6728
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 44.00%
+epoch=24, lr=[0.002], 2024-01-06 08:21:57.801130
+Training [62%]	Loss: 1.6639
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 45.00%
+epoch=25, lr=[0.002], 2024-01-06 08:23:46.275783
+Training [65%]	Loss: 1.6554
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 45.00%
+epoch=26, lr=[0.002], 2024-01-06 08:25:34.317704
+Training [68%]	Loss: 1.6475
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 45.00%
+epoch=27, lr=[0.002], 2024-01-06 08:27:22.783228
+Training [70%]	Loss: 1.6399
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 45.00%
+epoch=28, lr=[0.002], 2024-01-06 08:29:10.325441
+Training [72%]	Loss: 1.6327
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 45.00%
+epoch=29, lr=[0.002], 2024-01-06 08:30:58.814884
+Training [75%]	Loss: 1.6258
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 45.00%
+epoch=30, lr=[0.002], 2024-01-06 08:32:46.844126
+Training [78%]	Loss: 1.6192
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 45.00%
+epoch=31, lr=[0.002], 2024-01-06 08:34:34.817675
+Training [80%]	Loss: 1.6128
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=32, lr=[0.002], 2024-01-06 08:36:23.678349
+Training [82%]	Loss: 1.6068
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=33, lr=[0.002], 2024-01-06 08:38:11.610040
+Training [85%]	Loss: 1.6009
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=34, lr=[0.002], 2024-01-06 08:40:00.377915
+Training [88%]	Loss: 1.5954
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=35, lr=[0.002], 2024-01-06 08:41:47.938136
+Training [90%]	Loss: 1.5899
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=36, lr=[0.002], 2024-01-06 08:43:35.222422
+Training [92%]	Loss: 1.5849
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=37, lr=[0.002], 2024-01-06 08:45:23.749900
+Training [95%]	Loss: 1.5801
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=38, lr=[0.002], 2024-01-06 08:47:11.963641
+Training [98%]	Loss: 1.5753
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=39, lr=[0.002], 2024-01-06 08:49:00.281950
+Training [100%]	Loss: 1.5706
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+Finished Training
+
+----------------------------------------
+
+n_epochs=40, n_train=500, initial_lr=0.001, gamma=1.0
+momentum=0.9, nesterov=False
+
+epoch=0, lr=[0.001], 2024-01-06 06:25:19.389842
+Training [2%]	Loss: 2.2858
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=1, lr=[0.001], 2024-01-06 06:27:08.286766
+Training [5%]	Loss: 2.2646
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=2, lr=[0.001], 2024-01-06 06:28:55.091027
+Training [8%]	Loss: 2.2469
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=3, lr=[0.001], 2024-01-06 06:30:42.401500
+Training [10%]	Loss: 2.2314
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=4, lr=[0.001], 2024-01-06 06:32:30.089318
+Training [12%]	Loss: 2.2167
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=5, lr=[0.001], 2024-01-06 06:34:17.282891
+Training [15%]	Loss: 2.2027
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=6, lr=[0.001], 2024-01-06 06:36:04.796057
+Training [18%]	Loss: 2.1891
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=7, lr=[0.001], 2024-01-06 06:37:52.939476
+Training [20%]	Loss: 2.1759
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=8, lr=[0.001], 2024-01-06 06:39:39.829150
+Training [22%]	Loss: 2.1629
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=9, lr=[0.001], 2024-01-06 06:41:29.778578
+Training [25%]	Loss: 2.1502
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 30.00%
+epoch=10, lr=[0.001], 2024-01-06 06:43:16.498598
+Training [28%]	Loss: 2.1378
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 32.00%
+epoch=11, lr=[0.001], 2024-01-06 06:45:03.482567
+Training [30%]	Loss: 2.1255
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 33.00%
+epoch=12, lr=[0.001], 2024-01-06 06:46:51.556702
+Training [32%]	Loss: 2.1136
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 33.00%
+epoch=0, lr=[0.001], 2024-01-06 06:25:19.389842
+Training [2%]	Loss: 2.2858
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=1, lr=[0.001], 2024-01-06 06:27:08.286766
+Training [5%]	Loss: 2.2646
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=2, lr=[0.001], 2024-01-06 06:28:55.091027
+Training [8%]	Loss: 2.2469
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=3, lr=[0.001], 2024-01-06 06:30:42.401500
+Training [10%]	Loss: 2.2314
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=4, lr=[0.001], 2024-01-06 06:32:30.089318
+Training [12%]	Loss: 2.2167
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=5, lr=[0.001], 2024-01-06 06:34:17.282891
+Training [15%]	Loss: 2.2027
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=6, lr=[0.001], 2024-01-06 06:36:04.796057
+Training [18%]	Loss: 2.1891
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=7, lr=[0.001], 2024-01-06 06:37:52.939476
+Training [20%]	Loss: 2.1759
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=8, lr=[0.001], 2024-01-06 06:39:39.829150
+Training [22%]	Loss: 2.1629
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 29.00%
+epoch=9, lr=[0.001], 2024-01-06 06:41:29.778578
+Training [25%]	Loss: 2.1502
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 30.00%
+epoch=10, lr=[0.001], 2024-01-06 06:43:16.498598
+Training [28%]	Loss: 2.1378
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 32.00%
+epoch=11, lr=[0.001], 2024-01-06 06:45:03.482567
+Training [30%]	Loss: 2.1255
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 33.00%
+epoch=12, lr=[0.001], 2024-01-06 06:46:51.556702
+Training [32%]	Loss: 2.1136
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 33.00%
+epoch=13, lr=[0.001], 2024-01-06 06:48:39.262166
+Training [35%]	Loss: 2.1018
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 33.00%
+epoch=14, lr=[0.001], 2024-01-06 06:50:27.007334
+Training [38%]	Loss: 2.0902
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 34.00%
+epoch=15, lr=[0.001], 2024-01-06 06:52:15.210870
+Training [40%]	Loss: 2.0789
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 36.00%
+epoch=16, lr=[0.001], 2024-01-06 06:54:02.832253
+Training [42%]	Loss: 2.0678
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 37.00%
+epoch=17, lr=[0.001], 2024-01-06 06:55:51.082397
+Training [45%]	Loss: 2.0569
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 38.00%
+epoch=18, lr=[0.001], 2024-01-06 06:57:38.469320
+Training [48%]	Loss: 2.0462
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=19, lr=[0.001], 2024-01-06 06:59:25.938056
+Training [50%]	Loss: 2.0357
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=20, lr=[0.001], 2024-01-06 07:01:14.082041
+Training [52%]	Loss: 2.0255
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=21, lr=[0.001], 2024-01-06 07:03:01.319095
+Training [55%]	Loss: 2.0154
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=22, lr=[0.001], 2024-01-06 07:04:49.850050
+Training [58%]	Loss: 2.0056
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=23, lr=[0.001], 2024-01-06 07:06:37.045023
+Training [60%]	Loss: 1.9960
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=24, lr=[0.001], 2024-01-06 07:08:28.426736
+Training [62%]	Loss: 1.9865
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 40.00%
+epoch=25, lr=[0.001], 2024-01-06 07:10:19.406478
+Training [65%]	Loss: 1.9773
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 41.00%
+epoch=26, lr=[0.001], 2024-01-06 07:12:11.712794
+Training [68%]	Loss: 1.9682
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=27, lr=[0.001], 2024-01-06 07:14:02.508663
+Training [70%]	Loss: 1.9593
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=28, lr=[0.001], 2024-01-06 07:15:55.097974
+Training [72%]	Loss: 1.9505
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=29, lr=[0.001], 2024-01-06 07:17:46.743385
+Training [75%]	Loss: 1.9420
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=30, lr=[0.001], 2024-01-06 07:19:34.836893
+Training [78%]	Loss: 1.9335
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 43.00%
+epoch=31, lr=[0.001], 2024-01-06 07:21:22.332036
+Training [80%]	Loss: 1.9253
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 44.00%
+epoch=32, lr=[0.001], 2024-01-06 07:23:11.239341
+Training [82%]	Loss: 1.9172
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 45.00%
+epoch=33, lr=[0.001], 2024-01-06 07:24:58.803599
+Training [85%]	Loss: 1.9092
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=34, lr=[0.001], 2024-01-06 07:26:47.120606
+Training [88%]	Loss: 1.9014
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 46.00%
+epoch=35, lr=[0.001], 2024-01-06 07:28:35.871062
+Training [90%]	Loss: 1.8938
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 48.00%
+epoch=36, lr=[0.001], 2024-01-06 07:30:23.380835
+Training [92%]	Loss: 1.8862
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 48.00%
+epoch=37, lr=[0.001], 2024-01-06 07:32:11.834365
+Training [95%]	Loss: 1.8788
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 48.00%
+epoch=38, lr=[0.001], 2024-01-06 07:34:00.175946
+Training [98%]	Loss: 1.8715
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 48.00%
+epoch=39, lr=[0.001], 2024-01-06 07:35:49.059563
+Training [100%]	Loss: 1.8644
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 48.00%
+Finished Training
+
+----------------------------------------
+
+n_epochs=40, n_train=500, initial_lr=0.0005, gamma=1.0
+momentum=0.9, nesterov=False
+
+epoch=0, lr=[0.0005], 2024-01-06 05:18:14.538093
+Training [2%]	Loss: 2.2971
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 10.00%
+epoch=1, lr=[0.0005], 2024-01-06 05:20:04.611698
+Training [5%]	Loss: 2.2782
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 11.00%
+epoch=2, lr=[0.0005], 2024-01-06 05:21:53.095138
+Training [8%]	Loss: 2.2613
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 18.00%
+epoch=3, lr=[0.0005], 2024-01-06 05:23:42.334454
+Training [10%]	Loss: 2.2448
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 19.00%
+epoch=4, lr=[0.0005], 2024-01-06 05:25:30.654572
+Training [12%]	Loss: 2.2274
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 22.00%
+epoch=5, lr=[0.0005], 2024-01-06 05:27:19.715867
+Training [15%]	Loss: 2.2083
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 26.00%
+epoch=6, lr=[0.0005], 2024-01-06 05:29:07.987849
+Training [18%]	Loss: 2.1903
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 26.00%
+epoch=7, lr=[0.0005], 2024-01-06 05:30:57.118689
+Training [20%]	Loss: 2.1730
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 26.00%
+epoch=8, lr=[0.0005], 2024-01-06 05:32:45.244608
+Training [22%]	Loss: 2.1561
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 27.00%
+epoch=9, lr=[0.0005], 2024-01-06 05:34:34.061418
+Training [25%]	Loss: 2.1394
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 28.00%
+epoch=10, lr=[0.0005], 2024-01-06 05:36:22.648266
+Training [28%]	Loss: 2.1227
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 30.00%
+epoch=11, lr=[0.0005], 2024-01-06 05:38:11.148976
+Training [30%]	Loss: 2.1065
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 34.00%
+epoch=12, lr=[0.0005], 2024-01-06 05:40:00.119992
+Training [32%]	Loss: 2.0912
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 36.00%
+epoch=13, lr=[0.0005], 2024-01-06 05:41:47.945410
+Training [35%]	Loss: 2.0764
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 36.00%
+epoch=14, lr=[0.0005], 2024-01-06 05:43:37.269339
+Training [38%]	Loss: 2.0621
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 36.00%
+epoch=15, lr=[0.0005], 2024-01-06 05:45:25.494261
+Training [40%]	Loss: 2.0485
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 37.00%
+epoch=16, lr=[0.0005], 2024-01-06 05:47:14.412310
+Training [42%]	Loss: 2.0352
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 37.00%
+epoch=17, lr=[0.0005], 2024-01-06 05:49:02.573017
+Training [45%]	Loss: 2.0224
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 37.00%
+epoch=18, lr=[0.0005], 2024-01-06 05:50:51.704100
+Training [48%]	Loss: 2.0100
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 37.00%
+epoch=19, lr=[0.0005], 2024-01-06 05:52:39.909892
+Training [50%]	Loss: 1.9981
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 38.00%
+epoch=20, lr=[0.0005], 2024-01-06 05:54:29.450723
+Training [52%]	Loss: 1.9865
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 38.00%
+epoch=21, lr=[0.0005], 2024-01-06 05:56:18.036922
+Training [55%]	Loss: 1.9753
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=22, lr=[0.0005], 2024-01-06 05:58:07.553020
+Training [58%]	Loss: 1.9644
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 39.00%
+epoch=23, lr=[0.0005], 2024-01-06 05:59:57.134333
+Training [60%]	Loss: 1.9539
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 40.00%
+epoch=24, lr=[0.0005], 2024-01-06 06:01:46.932339
+Training [62%]	Loss: 1.9437
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 40.00%
+epoch=25, lr=[0.0005], 2024-01-06 06:03:35.457495
+Training [65%]	Loss: 1.9337
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 40.00%
+epoch=26, lr=[0.0005], 2024-01-06 06:05:25.499702
+Training [68%]	Loss: 1.9241
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 40.00%
+epoch=27, lr=[0.0005], 2024-01-06 06:07:14.204328
+Training [70%]	Loss: 1.9147
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 40.00%
+epoch=28, lr=[0.0005], 2024-01-06 06:09:03.901584
+Training [72%]	Loss: 1.9055
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 40.00%
+epoch=29, lr=[0.0005], 2024-01-06 06:10:53.050053
+Training [75%]	Loss: 1.8967
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 41.00%
+epoch=30, lr=[0.0005], 2024-01-06 06:12:42.819788
+Training [78%]	Loss: 1.8880
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 41.00%
+epoch=31, lr=[0.0005], 2024-01-06 06:14:31.633133
+Training [80%]	Loss: 1.8797
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 42.00%
+epoch=32, lr=[0.0005], 2024-01-06 06:16:21.019484
+Training [82%]	Loss: 1.8714
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 42.00%
+epoch=33, lr=[0.0005], 2024-01-06 06:18:09.289937
+Training [85%]	Loss: 1.8635
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 42.00%
+epoch=34, lr=[0.0005], 2024-01-06 06:19:58.028244
+Training [88%]	Loss: 1.8556
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 42.00%
+epoch=35, lr=[0.0005], 2024-01-06 06:21:47.050639
+Training [90%]	Loss: 1.8479
+Saving model state to models/ImgClass-Quanvolv.pth
+Accuracy on the validation set: 42.00%
+

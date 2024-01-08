@@ -21,4 +21,6 @@ HQNN-Quanv is a hybrid quantum-classical model that combines a quanvolutional la
 
 The model is evaluated on the MNIST dataset of handwritten digits and compared with the performance of the classical convolutional neural networks with similar architectures. Particularly with, CNN1- Convolutional kernel with 1 input channel, 1 output channel and CNN4- Convolutional kernel with 1 input channel, 4 output channels. 4 x 4 kernels are used. 
 
+The classical convolutional neural network is implemented in `` CNN1.ipynb `` and `` CNN4.ipynb ``, the HQNN-Quanv is implemented in `` HQNN-Quanv.ipynb ``
+
 **Result**: CNN1 gives an accuracy of 79%, CNN4 gives an accuracy of 67% and the HQNN-Quanv had an accuracy of 70%
